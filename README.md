@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fanny 👋
 
-<!--
-**Fannyogbu01/Fannyogbu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Python | SQL | Data analysis | Database Management | IT Support
 
-Here are some ideas to get you started:
+I'm an IT professional building practical skills across technology, data, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🗄️ SQL & Databases
+- 📊 Data Analysis
+-  💻 IT Support
+- 🌱 Currently learning and building practical projects
+
+### Projects
+I'm building projects that demonstrate my skills in Python, SQL, databases, and data analysis.
+
+### Let's Connect
+I'm always open to learning, collaborating, and connecting with people in technology.
